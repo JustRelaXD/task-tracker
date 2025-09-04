@@ -22,4 +22,4 @@ def inital_db():
 
 initial_db() 
 
-@app.route("\", methods=["])
+@app.route("\", methods=["GET])
