@@ -22,3 +22,4 @@ def inital_db():
 
 initial_db() 
 
+@app.route("\")
